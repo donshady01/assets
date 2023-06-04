@@ -1,6 +1,6 @@
 {
-    "name": "Scripts",
-    "symbol": "SCRIPT",
+    "name": "ethereum",
+    "symbol": "usdt",
     "type": "ERC20",
     "decimals": 4,
     "description": "-",
